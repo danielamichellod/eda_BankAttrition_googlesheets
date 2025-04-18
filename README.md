@@ -1,7 +1,7 @@
 # Bank XYZ's Attrition Project Analysis
 
 
-![Logo](/eda_BankAttrition_googlesheets/Pictures/LogoBankXYZ.jpeg)
+![LogoBankXYZ](https://github.com/user-attachments/assets/70072b7d-c39f-4583-acf3-02f22dc76412)
 
 
 
@@ -77,7 +77,8 @@ The development of the project is also included in the google drive link (https:
 - Completing the README file with the explanation of the project and the descriptive analysis.
 
 ## Dashboard
-![Texto alternativo](/eda_BankAttrition_googlesheets/Pictures/Dashboard.jpeg)
+![Dashboard](https://github.com/user-attachments/assets/e7d2b8a3-2044-4f62-ab1b-42a823d8f0be)
+
 
 ## Conclusions
 Below are the main conclusions from the analysis:
